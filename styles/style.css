@@ -1,1 +1,49 @@
+/*
+    Primary: #243E36
+    Secondary: #7CA982
+    Background: #F1F7ED
+    Text on black: #E0EEC6
+    Accent: #C2A83E
+*/
 
+.protest-strike-regular {
+   font-family: 'Protest Strike', sans-serif;
+   font-weight: 400;
+   font-style: normal;
+}
+
+.navbar-brand {
+   font-family: 'Protest Strike', sans-serif;
+   font-weight: 400;
+   font-style: normal;
+   font-size: 2.25rem;
+}
+
+.bg-info {
+   background-color: #7ca982 !important;
+}
+
+footer > .text-muted {
+   color: #243e36 !important;
+}
+
+.navbar-light .navbar-brand,
+.navbar-light .navbar-nav .nav-link {
+   color: #243e36;
+}
+
+.btn-info {
+   color: #e0eec6;
+   background-color: #f1f7ed;
+   border-color: #243e36;
+}
+
+.btn-primary {
+   color: #e0eec6;
+   background-color: #243e36;
+   border-color: #c2a83e;
+}
+
+body {
+   background-color: #f1f7ed;
+}
