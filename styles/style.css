@@ -28,7 +28,8 @@ footer > .text-muted {
 }
 
 .navbar-light .navbar-brand,
-.navbar-light .navbar-nav .nav-link {
+.navbar-light .navbar-nav .nav-link,
+.btn-outline-success {
    color: #243e36;
 }
 
